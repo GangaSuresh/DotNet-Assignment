@@ -1,0 +1,10 @@
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day3- Ganga Nair\Assignment-stackTest\MyStackClass\bin\Debug\netstandard2.0\MyStackClass.deps.json
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day3- Ganga Nair\Assignment-stackTest\MyStackClass\bin\Debug\netstandard2.0\MyStackClass.dll
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day3- Ganga Nair\Assignment-stackTest\MyStackClass\bin\Debug\netstandard2.0\MyStackClass.pdb
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day3- Ganga Nair\Assignment-stackTest\MyStackClass\obj\Debug\netstandard2.0\MyStackClass.csproj.AssemblyReference.cache
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day3- Ganga Nair\Assignment-stackTest\MyStackClass\obj\Debug\netstandard2.0\MyStackClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day3- Ganga Nair\Assignment-stackTest\MyStackClass\obj\Debug\netstandard2.0\MyStackClass.AssemblyInfoInputs.cache
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day3- Ganga Nair\Assignment-stackTest\MyStackClass\obj\Debug\netstandard2.0\MyStackClass.AssemblyInfo.cs
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day3- Ganga Nair\Assignment-stackTest\MyStackClass\obj\Debug\netstandard2.0\MyStackClass.csproj.CoreCompileInputs.cache
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day3- Ganga Nair\Assignment-stackTest\MyStackClass\obj\Debug\netstandard2.0\MyStackClass.dll
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day3- Ganga Nair\Assignment-stackTest\MyStackClass\obj\Debug\netstandard2.0\MyStackClass.pdb

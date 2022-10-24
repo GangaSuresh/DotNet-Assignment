@@ -1,0 +1,36 @@
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day2- Ganga Nair\AssignmentNonGeneric\Assignment- ExceptionHandling\bin\Debug\net6.0\Assignment- ExceptionHandling.exe
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day2- Ganga Nair\AssignmentNonGeneric\Assignment- ExceptionHandling\bin\Debug\net6.0\Assignment- ExceptionHandling.deps.json
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day2- Ganga Nair\AssignmentNonGeneric\Assignment- ExceptionHandling\bin\Debug\net6.0\Assignment- ExceptionHandling.runtimeconfig.json
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day2- Ganga Nair\AssignmentNonGeneric\Assignment- ExceptionHandling\bin\Debug\net6.0\Assignment- ExceptionHandling.dll
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day2- Ganga Nair\AssignmentNonGeneric\Assignment- ExceptionHandling\bin\Debug\net6.0\Assignment- ExceptionHandling.pdb
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day2- Ganga Nair\AssignmentNonGeneric\Assignment- ExceptionHandling\bin\Debug\net6.0\ExceptionLibrary.dll
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day2- Ganga Nair\AssignmentNonGeneric\Assignment- ExceptionHandling\bin\Debug\net6.0\ExceptionLibrary.pdb
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day2- Ganga Nair\AssignmentNonGeneric\Assignment- ExceptionHandling\obj\Debug\net6.0\Assignment- ExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day2- Ganga Nair\AssignmentNonGeneric\Assignment- ExceptionHandling\obj\Debug\net6.0\Assignment- ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day2- Ganga Nair\AssignmentNonGeneric\Assignment- ExceptionHandling\obj\Debug\net6.0\Assignment- ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day2- Ganga Nair\AssignmentNonGeneric\Assignment- ExceptionHandling\obj\Debug\net6.0\Assignment- ExceptionHandling.AssemblyInfo.cs
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day2- Ganga Nair\AssignmentNonGeneric\Assignment- ExceptionHandling\obj\Debug\net6.0\Assignment- ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day2- Ganga Nair\AssignmentNonGeneric\Assignment- ExceptionHandling\obj\Debug\net6.0\Assignment- ExceptionHandling.csproj.CopyComplete
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day2- Ganga Nair\AssignmentNonGeneric\Assignment- ExceptionHandling\obj\Debug\net6.0\Assignment- ExceptionHandling.dll
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day2- Ganga Nair\AssignmentNonGeneric\Assignment- ExceptionHandling\obj\Debug\net6.0\refint\Assignment- ExceptionHandling.dll
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day2- Ganga Nair\AssignmentNonGeneric\Assignment- ExceptionHandling\obj\Debug\net6.0\Assignment- ExceptionHandling.pdb
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day2- Ganga Nair\AssignmentNonGeneric\Assignment- ExceptionHandling\obj\Debug\net6.0\Assignment- ExceptionHandling.genruntimeconfig.cache
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day2- Ganga Nair\AssignmentNonGeneric\Assignment- ExceptionHandling\obj\Debug\net6.0\ref\Assignment- ExceptionHandling.dll
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day2- Ganga Nair\Assignment\Assignment- ExceptionHandling\bin\Debug\net6.0\Assignment- ExceptionHandling.exe
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day2- Ganga Nair\Assignment\Assignment- ExceptionHandling\bin\Debug\net6.0\Assignment- ExceptionHandling.deps.json
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day2- Ganga Nair\Assignment\Assignment- ExceptionHandling\bin\Debug\net6.0\Assignment- ExceptionHandling.runtimeconfig.json
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day2- Ganga Nair\Assignment\Assignment- ExceptionHandling\bin\Debug\net6.0\Assignment- ExceptionHandling.dll
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day2- Ganga Nair\Assignment\Assignment- ExceptionHandling\bin\Debug\net6.0\Assignment- ExceptionHandling.pdb
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day2- Ganga Nair\Assignment\Assignment- ExceptionHandling\bin\Debug\net6.0\ExceptionLibrary.dll
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day2- Ganga Nair\Assignment\Assignment- ExceptionHandling\bin\Debug\net6.0\ExceptionLibrary.pdb
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day2- Ganga Nair\Assignment\Assignment- ExceptionHandling\obj\Debug\net6.0\Assignment- ExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day2- Ganga Nair\Assignment\Assignment- ExceptionHandling\obj\Debug\net6.0\Assignment- ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day2- Ganga Nair\Assignment\Assignment- ExceptionHandling\obj\Debug\net6.0\Assignment- ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day2- Ganga Nair\Assignment\Assignment- ExceptionHandling\obj\Debug\net6.0\Assignment- ExceptionHandling.AssemblyInfo.cs
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day2- Ganga Nair\Assignment\Assignment- ExceptionHandling\obj\Debug\net6.0\Assignment- ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day2- Ganga Nair\Assignment\Assignment- ExceptionHandling\obj\Debug\net6.0\Assignment- ExceptionHandling.csproj.CopyComplete
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day2- Ganga Nair\Assignment\Assignment- ExceptionHandling\obj\Debug\net6.0\Assignment- ExceptionHandling.dll
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day2- Ganga Nair\Assignment\Assignment- ExceptionHandling\obj\Debug\net6.0\refint\Assignment- ExceptionHandling.dll
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day2- Ganga Nair\Assignment\Assignment- ExceptionHandling\obj\Debug\net6.0\Assignment- ExceptionHandling.pdb
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day2- Ganga Nair\Assignment\Assignment- ExceptionHandling\obj\Debug\net6.0\Assignment- ExceptionHandling.genruntimeconfig.cache
+C:\Users\ganga\OneDrive\Desktop\Assignments\Day2- Ganga Nair\Assignment\Assignment- ExceptionHandling\obj\Debug\net6.0\ref\Assignment- ExceptionHandling.dll

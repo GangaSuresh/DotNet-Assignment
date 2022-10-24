@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EXVwc4fqJcb0rtMWmaJtC152sH+zB+I8i+AF/fICIuS+/iRTezg2YAXuaKbx+BL1014PiL6QezpApMozB1bQxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day3- Ganga Nair\\Assignment-stackTest\\MyStackClass\\MyStackClass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ganga\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ganga\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

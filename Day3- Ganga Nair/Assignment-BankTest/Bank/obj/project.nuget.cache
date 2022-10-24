@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1oenfE4ovv/n2G4wjHpNINDstbQ0A0uekVIayxjslaBn760B+eSc51Maom+lPlGeO4owntqDbGqWx99lKdt4aA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day3- Ganga Nair\\Assignment-BankTest\\Bank\\Bank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ganga\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ganga\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

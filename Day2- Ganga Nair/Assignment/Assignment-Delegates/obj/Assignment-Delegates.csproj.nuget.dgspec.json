@@ -1,0 +1,358 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\Assignment-Delegates\\Assignment-Delegates.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\Assignment-Delegates\\Assignment-Delegates.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\Assignment-Delegates\\Assignment-Delegates.csproj",
+        "projectName": "Assignment-Delegates",
+        "projectPath": "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\Assignment-Delegates\\Assignment-Delegates.csproj",
+        "packagesPath": "C:\\Users\\ganga\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\Assignment-Delegates\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ganga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\CustomerLibrary\\CustomerLibrary.csproj": {
+                "projectPath": "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\CustomerLibrary\\CustomerLibrary.csproj"
+              },
+              "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\DelegateLibrary\\DelegateLibrary.csproj": {
+                "projectPath": "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\DelegateLibrary\\DelegateLibrary.csproj"
+              },
+              "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\EmployeeLibrary\\EmployeeLibrary.csproj": {
+                "projectPath": "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\EmployeeLibrary\\EmployeeLibrary.csproj"
+              },
+              "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\Printer\\Printer.csproj": {
+                "projectPath": "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\Printer\\Printer.csproj"
+              },
+              "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\StudentLibrary\\StudentLibrary.csproj": {
+                "projectPath": "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\StudentLibrary\\StudentLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\CustomerLibrary\\CustomerLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\CustomerLibrary\\CustomerLibrary.csproj",
+        "projectName": "CustomerLibrary",
+        "projectPath": "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\CustomerLibrary\\CustomerLibrary.csproj",
+        "packagesPath": "C:\\Users\\ganga\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\CustomerLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ganga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\DelegateLibrary\\DelegateLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\DelegateLibrary\\DelegateLibrary.csproj",
+        "projectName": "DelegateLibrary",
+        "projectPath": "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\DelegateLibrary\\DelegateLibrary.csproj",
+        "packagesPath": "C:\\Users\\ganga\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\DelegateLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ganga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\EmployeeLibrary\\EmployeeLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\EmployeeLibrary\\EmployeeLibrary.csproj",
+        "projectName": "EmployeeLibrary",
+        "projectPath": "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\EmployeeLibrary\\EmployeeLibrary.csproj",
+        "packagesPath": "C:\\Users\\ganga\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\EmployeeLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ganga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\Printer\\Printer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\Printer\\Printer.csproj",
+        "projectName": "Printer",
+        "projectPath": "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\Printer\\Printer.csproj",
+        "packagesPath": "C:\\Users\\ganga\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\Printer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ganga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\DelegateLibrary\\DelegateLibrary.csproj": {
+                "projectPath": "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\DelegateLibrary\\DelegateLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\StudentLibrary\\StudentLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\StudentLibrary\\StudentLibrary.csproj",
+        "projectName": "StudentLibrary",
+        "projectPath": "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\StudentLibrary\\StudentLibrary.csproj",
+        "packagesPath": "C:\\Users\\ganga\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ganga\\OneDrive\\Desktop\\Assignments\\Day2- Ganga Nair\\Assignment\\StudentLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ganga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
